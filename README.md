@@ -1,2 +1,0 @@
-# introdatascience
- WQD7001
